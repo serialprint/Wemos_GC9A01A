@@ -1,6 +1,8 @@
 # Wemos_GC9A01A
 Wemos D1 mini kartı ile GC9A01A ekranında logo yazdırma yapılması
 
+![3](https://github.com/user-attachments/assets/5f36b65e-7281-40ae-bdb8-c4ee8ccbd059)
+
 Logo Display on TFT LCD with Wemos D1 Mini and GC9A01A
 Bu proje, Wemos D1 Mini kartı kullanarak bir GC9A01A 240x240 TFT LCD ekranında logo görüntülemeyi amaçlamaktadır. Proje, Adafruit_GFX ve Adafruit_GC9A01A kütüphanelerini kullanarak RGB565 formatındaki bir görseli TFT ekran üzerinde gösterir. Görsel, Image Converter programı ile dönüştürülüp Arduino kodunda bir dizi olarak tanımlanır.
 
