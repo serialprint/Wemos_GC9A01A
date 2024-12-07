@@ -93,8 +93,8 @@ Bu projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
 Adafruit_GFX ve Adafruit_GC9A01A kütüphanelerini Arduino IDE'nin Library Manager üzerinden yükleyin.
 
-![alt text](1.png)
-![alt text](2.png)
+![1](https://github.com/user-attachments/assets/7b377d27-1827-4b96-816d-a5f08cc695cb)
+![2](https://github.com/user-attachments/assets/29dc5d8c-f97b-4156-9590-a0b4db61a376)
 
 **Donanım Bağlantıları:**
 
